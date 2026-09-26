@@ -4,9 +4,9 @@ A moderation and utility Discord bot built with `discord.py` 2.x, slash commands
 
 ## Features
 
-- **Moderation** — `/warn`, `/warnings`, `/clearwarnings`, `/timeout`, `/kick`, `/ban`, `/purge`, all permission-gated and logged to SQLite.
-- **Utility** — `/ping`, `/userinfo`, `/serverinfo`, `/avatar`.
-- **Tags** — `/tag create|get|delete|list`, reusable text snippets scoped per server.
+- **Moderation** - `/warn`, `/warnings`, `/clearwarnings`, `/timeout`, `/kick`, `/ban`, `/purge`, all permission-gated and logged to SQLite.
+- **Utility** - `/ping`, `/userinfo`, `/serverinfo`, `/avatar`.
+- **Tags** - `/tag create|get|delete|list`, reusable text snippets scoped per server.
 - Cog-based architecture, centralized error handling, structured logging.
 
 ## Setup
