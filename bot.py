@@ -1,4 +1,4 @@
-"""Entry point — loads cogs, syncs slash commands, starts the bot."""
+"""Entry point - loads cogs, syncs slash commands, starts the bot."""
 
 from __future__ import annotations
 
