@@ -1,4 +1,4 @@
-"""SQLite persistence for the bot — warnings and tags."""
+"""SQLite persistence for the bot - warnings and tags."""
 
 import sqlite3
 from pathlib import Path
